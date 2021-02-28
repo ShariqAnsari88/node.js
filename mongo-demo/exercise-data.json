@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Angular Course",
+        "author": "Shariq",
+        "tags": ["angular", "frontend"],
+        "price": 10,
+        "isPublished": true
+    },
+    {
+        "id": 2,
+        "name": "React.Js Course",
+        "author": "Shariq",
+        "tags": ["react", "frontend"],
+        "price": 20,
+        "isPublished": true
+    },
+    {
+        "id": 3,
+        "name": "JavaScript Course by Shariq Ansari",
+        "author": "Shariq",
+        "tags": ["js", "frontend"],
+        "price": 30,
+        "isPublished": true
+    },
+    {
+        "id": 4,
+        "name": "HTML/CSS Course",
+        "author": "Shariq",
+        "tags": ["html", "css", "frontend"],
+        "price": 40,
+        "isPublished": true
+    },
+    {
+        "id": 5,
+        "name": "Node.Js Course",
+        "author": "Shariq",
+        "tags": ["node", "backend"],
+        "price": 50,
+        "isPublished": true
+    },
+    {
+        "id": 6,
+        "name": "PHP Course by Shariq Ansari",
+        "author": "Shariq",
+        "tags": ["php", "backend"],
+        "price": 60,
+        "isPublished": true
+    }
+]
